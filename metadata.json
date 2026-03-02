@@ -1,0 +1,5 @@
+{
+  "name": "6A-DOS",
+  "description": "Advanced Web-based OS with MS-DOS interface, simulated WebHDD and WebRAM, and a retro CRT display.",
+  "requestFramePermissions": []
+}
